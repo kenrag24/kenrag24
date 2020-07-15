@@ -1,4 +1,4 @@
-### Hi there 👋
+### Coding My Bot
 
 <!--
 **kenrag24/kenrag24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
