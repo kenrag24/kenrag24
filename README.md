@@ -2,3 +2,4 @@
 🌱 I’m currently learning ... Rust
  
  You can contact me on discord: `NerdThatNoOneLikes#0001`
+Hello I'm nerd a 13 year old developer.
